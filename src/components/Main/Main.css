@@ -1,0 +1,52 @@
+.div{
+    max-width: 900px;
+    height: 450px;
+    align-content: center;
+}
+
+@media (max-width: 900px) {
+    .div {
+        width:auto;
+        height:auto;
+    }
+}
+
+
+.col{
+    margin: 10px;
+    padding: 10px;
+    align-content: center;
+    position: relative;
+    font-family: 'Anton', sans-serif;
+}
+
+.slide-container{
+    margin-top:50px;
+}
+
+.profile-pic {
+    max-width:180px;
+    height:180px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+
+}
+
+.title{
+    padding: 0px;
+}
+
+.h4 {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+}
+
+.Container .col .profile-pic {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 20vh
+}

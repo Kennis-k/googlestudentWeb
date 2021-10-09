@@ -1,51 +1,35 @@
-import React from 'react';
-import { MemoryRouter, Switch, Route } from 'react-router-dom';
-import Card from 'react-bootstrap/Card';
-import Container from 'react-bootstrap/Container';
-import Button from 'react-bootstrap/Button';
-import { LinkContainer } from 'react-router-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+import React, { Component } from 'react'
+import Nav_Top from './components/Navbar/Nav_Top'
+import Header from "./components/Header/Header";
+import AboutUS from "./components/AboutUS/AboutUS";
+import Main from "./components/Main/Main";
+import News from    "./components/News/News";
 
-const Home = () => <span>Home</span>;
+export default class App extends Component {
+    render() {
+        return (
+            <>
+                <div id="Home" >
+                    <Nav_Top />
+                </div>
+                <div id="Header" >
+                    <Header />
+                </div>
+                <div id="AboutUs" >
+                    <AboutUS />
+                </div>
+                <div id="News" >
+                    <News />
+                </div>
+                <div id="Members">
+                    <Main />
+                </div>
+                <div id="Events">
+                </div>
+            </>
+        )
+    }
+}
 
-const About = () => <span>About</span>;
 
-const Users = () => <span>Users</span>;
 
-const App = () => (
-    <MemoryRouter>
-      <Container className="p-3">
-        <Card style={{ width:'18rem '}}>
-          <Card.Body>
-            Current Page is{' '}
-            <Switch>
-              <Route path="/about">
-                <About />
-              </Route>
-              <Route path="/users">
-                <Users />
-              </Route>
-              <Route path="/">
-                <Home />
-              </Route>
-            </Switch>
-            Navigate to{' '}
-            <Button className="custom-btn-toolbar">
-              <LinkContainer to="/">
-                <Button>Home</Button>
-              </LinkContainer>
-              <LinkContainer to="/about">
-                <Button>About</Button>
-              </LinkContainer>
-              <LinkContainer to="/users">
-                <Button>Users</Button>
-              </LinkContainer>
-            </Button>
-          </Card.Body>
-        </Card>
-      </Container>
-    </MemoryRouter>
-);
-
-export default App;

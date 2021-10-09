@@ -1,0 +1,20 @@
+.info {
+    max-width:fit-content;
+    height:180px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+
+}
+
+.header {
+    text-align: left;
+    padding: 20px;
+}
+.col-auto {
+    position: relative;
+    padding: 10px;
+}
+.col-3{
+    position: relative;
+}

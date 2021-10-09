@@ -1,0 +1,33 @@
+.card {
+    position: relative;
+    display: inline-flex;
+    flex-direction: column-reverse;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px white;
+    border-radius: .25rem;
+    height: 400px;
+    font-family: 'Anton', sans-serif;
+    top: 100px;
+    margin: 200px;
+}
+
+.card-body {
+    float:left ;
+    text-align: left;
+    width: 700px;
+    font-family: 'Anton', sans-serif;
+}
+
+
+
+.gift_image{
+    max-width:fit-content;
+    height:372px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    padding: 20px;
+}

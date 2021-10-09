@@ -1,0 +1,27 @@
+
+
+
+
+.navbar-nav{
+    font-size: larger;
+    font-family: 'Anton', sans-serif;
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: flex-start;
+    text-decoration: none;
+}
+
+ a {
+    padding: 9px 17px;
+    text-decoration: none;
+    display: inline;
+    font-size: larger;
+    font-family: 'Anton', sans-serif;
+    border-radius: .25rem;
+    border: 1px white;
+}
+
+.me-auto {
+    text-decoration: none;
+}
