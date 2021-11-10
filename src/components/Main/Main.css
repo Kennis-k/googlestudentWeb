@@ -21,6 +21,7 @@
     align-content: center;
     position: relative;
     font-family: 'Anton', sans-serif;
+    width:500px
 }
 
 .slide-container{
@@ -64,7 +65,7 @@ body {
     background: #fff;
 }
 
-.container {
+.div {
     display: flex;
     flex-direction: column;
     position: relative;
