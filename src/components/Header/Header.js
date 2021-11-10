@@ -1,21 +1,24 @@
 import React from "react";
 // Components
 import "./Header.css";
-import {Jumbotron} from "reactstrap";
-import {Container} from "reactstrap";
-
+import image1 from "../Home/logo_bg.png"
+import Carousel from 'react-bootstrap/Carousel'
 
 
 const Header = () => (
-
-    <div className="w-responsive text-center mx-auto p-3 mt-2">
-        <Jumbotron fluid>
-            <Container fluid>
-                <h1 style={{ color: 'white'}}>Developer Student Club (IVE)</h1>
-                <h4 style={{ color: 'white'}}>By Google Developers</h4>
-            </Container>
-        </Jumbotron>
-    </div>
+    <Carousel>
+        <Carousel.Item>
+            <img
+                className="d-block w-100"
+                src={ image1}
+                alt="First slide"
+            />
+            <Carousel.Caption>
+                <h3>Developer Student Club (IVE)</h3>
+                <p>By Google Developers</p>
+            </Carousel.Caption>
+        </Carousel.Item>
+    </Carousel>
 );
 
 

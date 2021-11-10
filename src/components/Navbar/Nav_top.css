@@ -1,8 +1,10 @@
 
 
+.container{
+    flex-direction: column;
+}
 
-
-.navbar-nav{
+.me-auto{
     font-size: larger;
     font-family: 'Anton', sans-serif;
     display: flex;
@@ -11,6 +13,7 @@
     justify-content: flex-start;
     text-decoration: none;
 }
+
 
  a {
     padding: 9px 17px;

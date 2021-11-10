@@ -6,7 +6,7 @@ body {
 .jumbotron{
     align-items:center;
     display:block;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("/src/logo_bg.png") ;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("/src/components/Home/logo_bg.png") ;
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;

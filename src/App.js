@@ -4,6 +4,7 @@ import Header from "./components/Header/Header";
 import AboutUS from "./components/AboutUS/AboutUS";
 import Main from "./components/Main/Main";
 import News from    "./components/News/News";
+import Footer from "./components/Footer/Footer";
 
 export default class App extends Component {
     render() {
@@ -25,6 +26,9 @@ export default class App extends Component {
                     <Main />
                 </div>
                 <div id="Events">
+                </div>
+                <div id="Footer">
+                    <Footer />
                 </div>
             </>
         )

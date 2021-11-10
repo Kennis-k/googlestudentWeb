@@ -1,20 +1,29 @@
-.info {
-    max-width:fit-content;
-    height:180px;
+.content {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+}
+
+.content .leftSide {
+    height: 100%;
+    flex: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.content .leftSide .leftImg{
+
+    display: block;
+
+    width: 100%;
     margin: auto;
-    align-items: center;
-    position: relative;
-
 }
 
-.header {
-    text-align: left;
-    padding: 20px;
-}
-.col-auto {
-    position: relative;
-    padding: 10px;
-}
-.col-3{
-    position: relative;
+.content .rightSide {
+    height: 100%;
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }

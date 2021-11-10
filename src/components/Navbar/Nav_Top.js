@@ -12,8 +12,8 @@ import {Link} from 'react-scroll'
 export default class Nav_Top extends Component {
     render() {
         return (
-            <Navbar className="fixed-top" bg="light" variant="light"  >
-                <Container>
+            <Navbar className="fixed-top" bg="white" variant="light"  >
+                <container className="NavbarHeader">
                     <Navbar.Brand href="#home"><img
                         src={logo}
                         width="325"
@@ -35,7 +35,7 @@ export default class Nav_Top extends Component {
                                     <botton type='button'>TeamMembers</botton>
                                 </Link>
                             </nav>
-                </Container>
+                </container>
             </Navbar>
         )
     }
