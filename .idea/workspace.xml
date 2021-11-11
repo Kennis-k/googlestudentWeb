@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85f2b2ec-700e-4504-9085-843c28118e95" name="Changes" comment="link" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1z89UI5J9096lHxhEc2xzA9Insr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/data/Member2/icon" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\data\Member2\icon" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\components\Main" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\components\Home" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\components\Header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\data\Member2\icon" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\data\Member2" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\image" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\components\Home" />
+      <recent name="C:\Users\Dobby\WebstormProjects\googlestudentWeb\src\components\News" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f2b2ec-700e-4504-9085-843c28118e95" name="Changes" comment="" />
+      <created>1633518862900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633518862900</updated>
+      <workItem from="1633518864780" duration="254000" />
+      <workItem from="1633519133541" duration="833000" />
+      <workItem from="1633521790838" duration="8000000" />
+      <workItem from="1633529838876" duration="105000" />
+      <workItem from="1633684849533" duration="56089000" />
+      <workItem from="1636536273476" duration="22085000" />
+      <workItem from="1636560853493" duration="14046000" />
+    </task>
+    <task id="LOCAL-00001" summary="final">
+      <created>1633773488907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633773488907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new-vision">
+      <created>1636572720516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636572720516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new-vision">
+      <created>1636572820996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636572820996</updated>
+    </task>
+    <task id="LOCAL-00004" summary="link">
+      <created>1636575046970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636575046970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/gh-pages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/gh-pages" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="final" />
+    <MESSAGE value="new-vision" />
+    <MESSAGE value="link" />
+    <option name="LAST_COMMIT_MESSAGE" value="link" />
+  </component>
+</project>
